@@ -1,0 +1,1 @@
+console.log('Esse ´um teste de conflito no github');
