@@ -1,1 +1,2 @@
-console.log('Esse ´um teste de conflito no github');
+console.log('Esse é um teste de conflito no github');
+console.log('Estou aprendendo a editar arquivo dentro do site do github');
